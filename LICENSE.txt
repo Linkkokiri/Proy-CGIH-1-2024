@@ -1,0 +1,12 @@
+CC BY-NC
+
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
+
+BY: credit must be given to the creator.
+NC: Only noncommercial uses of the work are permitted.
+
+Atribución: Debes dar el crédito apropiado mencionando [Tu nombre o nombre de usuario en GitHub], 
+proporcionar un enlace a la licencia e indicar si se realizaron cambios. 
+Puede hacerlo de cualquier manera razonable, pero no de ninguna manera que sugiera que el licenciante lo respalda a usted o su uso.
+
+Licencia CC BY-NC: https://creativecommons.org/licenses/by-nc/4.0/
